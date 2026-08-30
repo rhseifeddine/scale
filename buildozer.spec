@@ -4,7 +4,7 @@ package.name = magproscale
 package.domain = org.magproscale
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,ttf
-version = 7.5.0
+version = 7.9.0
 requirements = python3,kivy,kivymd==1.2.0,requests,urllib3,pillow,arabic-reshaper,python-bidi==0.4.2,six,future,certifi,chardet,idna,android,jnius
 icon.filename = apk_icon3.png
 orientation = portrait
